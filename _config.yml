@@ -147,6 +147,8 @@ collections:
     output: true
   projects:
     output: true
+  photography:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
